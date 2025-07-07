@@ -1,0 +1,10 @@
+::selection {
+    background: purple;
+    color: white;
+  }
+
+  /* For better browser support */
+  ::-moz-selection {
+    background: purple;
+    color: white;
+  }

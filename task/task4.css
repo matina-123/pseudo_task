@@ -1,0 +1,5 @@
+/* Target the first <li> inside any <ul> */
+ul li:first-child {
+    font-weight: bold;
+    color: red;
+  }

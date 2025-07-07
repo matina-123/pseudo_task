@@ -1,0 +1,11 @@
+h2::before {
+    content: "★ ";
+    color: gold;
+    font-weight: bold;
+  }
+
+  h2::after {
+    content: " !";
+    color: red;
+    font-weight: bold;
+  }
